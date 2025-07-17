@@ -6,3 +6,4 @@ Calculator ;
 YouTube ;
 Coffee Shop (working on...) ;
 To-do list ;
+Open all projects with Live Server through VS Code , is mandatory !!! 
